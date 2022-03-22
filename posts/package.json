@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "robsonmrsp@gmail.com",
   "license": "MIT",
+
+  "scripts": {
+    "start": "nodemon index.js "
+  },
   "dependencies": {
     "axios": "^0.26.1",
     "cors": "^2.8.5",
