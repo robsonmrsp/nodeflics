@@ -1,0 +1,14 @@
+{
+  "name": "posts",
+  "version": "1.0.0",
+  "description": "Microservice to attend posts on nodeflics movies",
+  "main": "index.js",
+  "author": "robsonmrsp@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
